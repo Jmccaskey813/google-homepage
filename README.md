@@ -1,0 +1,1 @@
+This is odin project task that portrays my basic understanding of HTML and CSS. It is a simple rebuild of the google homepage. 
